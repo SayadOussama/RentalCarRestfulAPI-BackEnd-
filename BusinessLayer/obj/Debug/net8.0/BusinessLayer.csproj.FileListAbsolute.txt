@@ -1,0 +1,15 @@
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

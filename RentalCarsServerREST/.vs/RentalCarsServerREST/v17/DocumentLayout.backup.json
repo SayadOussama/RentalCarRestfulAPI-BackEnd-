@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\carcontainerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\carcontainerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\cartypesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\cartypesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\clientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\clientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\countriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\countriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\personapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\personapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\reservationcarapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\reservationcarapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdatausers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clsreservationcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clscarcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdatareservationcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdatacarcaontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdataclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdatacartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clscartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdataperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clsclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8145D3-F8A1-47B7-A626-BBE15AEB2733}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\businesslayer\\clscountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\rentalcarsserverrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057A941-7039-4407-A635-DC95216F3F39}|RentalCarsServerREST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DB4F84-451B-4098-96D3-2A66333FA07D}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\back end api projects\\renalcarsserver\\datalayer\\clsdataaccesssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsReservationCar.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsReservationCar.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsReservationCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsReservationCar.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsReservationCar.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAhwJgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:13:19.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsCarContainer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCarContainer.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCarContainer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCarContainer.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCarContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:14:05.993Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationCarAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\ReservationCarAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationCarAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\ReservationCarAPIController.cs",
+              "RelativeToolTip": "Controllers\\ReservationCarAPIController.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:06:01.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\ClientsAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\ClientsAPIController.cs",
+              "RelativeToolTip": "Controllers\\ClientsAPIController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAIwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:33:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CountriesAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CountriesAPIController.cs",
+              "RelativeToolTip": "Controllers\\CountriesAPIController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:33:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarContainerAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CarContainerAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarContainerAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CarContainerAPIController.cs",
+              "RelativeToolTip": "Controllers\\CarContainerAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarTypesAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CarTypesAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarTypesAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\CarTypesAPIController.cs",
+              "RelativeToolTip": "Controllers\\CarTypesAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:14:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\UserAPIController.cs",
+              "RelativeToolTip": "Controllers\\UserAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:30:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDataReservationCar.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataReservationCar.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataReservationCar.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataReservationCar.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataReservationCar.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwH8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:12:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDataCarCaontainer.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataCarCaontainer.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataCarCaontainer.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataCarCaontainer.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataCarCaontainer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwJkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:46:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonAPIController.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\PersonAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonAPIController.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Controllers\\PersonAPIController.cs",
+              "RelativeToolTip": "Controllers\\PersonAPIController.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAAcBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:17:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsDataUsers.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataUsers.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataUsers.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataUsers.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataUsers.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAABwBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:00:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsCarTypes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCarTypes.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCarTypes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCarTypes.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCarTypes.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:43:03.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUsers.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsUsers.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsUsers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:43:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsDataCarTypes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataCarTypes.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataCarTypes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataCarTypes.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataCarTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:00:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsDataClients.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataClients.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataClients.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataClients.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataClients.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2YAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:37:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsDataPerson.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataPerson.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataPerson.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataPerson.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataPerson.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwHsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:28:54.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsClients.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsClients.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsClients.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsClients.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsClients.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAApwIEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:09:38.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsCountries.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCountries.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCountries.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\BusinessLayer\\clsCountries.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCountries.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:46:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\RentalCarsServerREST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:02:06.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsDataAccessSetting.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataAccessSetting.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataAccessSetting.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\Back End API Projects\\RenalCarsServer\\DataLayer\\clsDataAccessSetting.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataAccessSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:48:34.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

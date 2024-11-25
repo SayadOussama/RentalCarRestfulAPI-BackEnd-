@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dHFj7yhwYsfMgjyC6QTV/g7IpuIXqr5ERvlk66j/ywU=",
+  "Source": "RentalCarsServerREST",
+  "BasePath": "_content/RentalCarsServerREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

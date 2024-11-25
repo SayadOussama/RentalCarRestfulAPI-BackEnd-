@@ -1,0 +1,12 @@
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\Back End API Projects\RenalCarsServer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
